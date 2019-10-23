@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# yarn lock
+yarn.lock
+
+# logs
+npm-debug.log
+
+.idea
+.env*local
+.vscode
+.history
