@@ -1,0 +1,43 @@
+.auth-form {
+  width: 40rem;
+  max-width: 80%;
+  margin: auto;
+  margin-top: 6rem
+}
+
+.form-control label,
+.form-control input {
+  width: 100%;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.form-control label {
+  color: dodgerblue;
+  font-weight: bold;
+}
+
+.form-control input {
+  padding: .25rem .5rem;
+  font-size: 1.5rem;
+}
+
+.form-control input {
+  height: 2rem;
+}
+
+.auth-form button {
+  border: none;
+  background: dodgerblue;
+  padding: .5rem 2rem;
+  margin-right: 1rem;
+  color: white;
+  border-radius: .25rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.auth-form button:hover,
+.auth-form button:active {
+  background: deepskyblue;
+}
